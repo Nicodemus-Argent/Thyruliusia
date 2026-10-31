@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/adventure-5e-thyruliusia/index/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/adventure-5e-thyruliusia/index/","title":"Welcome","dg-note-properties":{"title":"Welcome"}}
 ---
+
+
+
 
 # This is my Mark Down
 This is the beginning of the journey.
