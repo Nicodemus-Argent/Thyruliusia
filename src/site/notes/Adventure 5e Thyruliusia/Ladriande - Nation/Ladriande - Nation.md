@@ -16,3 +16,4 @@ The NE ocean is actually an enormous fresh water lake, it offers no ocean access
 The SW ocean is a very large bay, one can access the open sea, but some of the passes are treacherous and the territory is often contested by various states.
 
 Ladriande is largely self sufficient. The farmland is abundant, the timber is valuable, but access to the area involves harsh sea or desert crossings, so the area is largely ignored.
+The farming communities, spread far and wide, usually have hamlets that are not dropped into the map. Any given 8 mile hex can hold as many as 150 farming families. Any hex can easily have a very small collective center with its own individual identity as a community.
