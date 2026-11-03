@@ -6,7 +6,7 @@
 
 ## Goals of Amani Verna Coprinoderma
 
-## Goals of Dimitrios
+## Goals of Demetrios
 
 ## Goals of Eymriella
 
