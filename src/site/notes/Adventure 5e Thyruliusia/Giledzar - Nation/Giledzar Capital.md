@@ -12,3 +12,7 @@ The Mountain Range is known in Dwarvish as "Deldruke Dionn", and thus the Deldru
 The Kingdom commands hundreds and hundreds of miles of mountains on this continent and also much of the flat land around it. Elves, Humans, Small Folk, and many others live in these lands with fealty (some begrudging) to the **GRANITE KING** of Deldruke.
 
 
+### Rulers
+Vizier of Commerce - Bachs Mythaschmith
+Military Commander - Martial Targant 'Coal Cracker' Vvagantarg
+Civilian Guard Commander - Stargart Ironbraids
