@@ -8,6 +8,14 @@
 
 ## Goals of Demetrios
 
+**Long Term Goal:** Reclaims the Relics forged for himself, as well as the other four Stoneborn. 
+
+**Long Term Dream:** Understand his origin and creation intimately enough to carve another of his kind, himself. 
+
+**Short Term Goal:** Better understand and rediscover the now lost and reclusive Rockseer elves.
+
+**Short Term Dream:** Gather enough gold to settle a homestead to build up while searching for his wakers, and providing home for himself and Raff.
+
 ## Goals of Eymriella
 
 **SHORT TERM**
