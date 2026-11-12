@@ -26,7 +26,7 @@ The Capital City is [[Adventure 5e Thyruliusia/Ladriande - Nation/Ladriande - Ca
 ## Towns
 The nation has uncounted hamlets. The towns large enough to have their own appointed government and trade and tax stations. These include:
 * [[Adventure 5e Thyruliusia/Ladriande - Nation/Briarlaize - Town\|Briarlaize - Town]]
-* Something
+* [[Adventure 5e Thyruliusia/Ladriande - Nation/Hearthstone - Village\|Hearthstone - Village]]
 * Another thing
 * Something else
 
