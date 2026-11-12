@@ -30,6 +30,11 @@ The nation has uncounted hamlets. The towns large enough to have their own appoi
 * Another thing
 * Something else
 
+## Locations
+* Fellmar Logging Camp West
+* Fellmar Logging Camp North
+* Fellmar Logging Camp South
+
 ## Military
 * Desert Pass Fortress
 * North Border Tower
