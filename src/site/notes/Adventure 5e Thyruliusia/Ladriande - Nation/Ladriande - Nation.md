@@ -6,7 +6,7 @@
 
 Ruler: Lord Velindiel
 
-Size: 14 hex X 14 hex, approximately 74,000 square miles.
+Size: 25 hex X 14 hex, approximately 95,000 square miles.
 
 
 Capital: Ladriande City
