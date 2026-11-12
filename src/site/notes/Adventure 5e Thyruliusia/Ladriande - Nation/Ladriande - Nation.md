@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/adventure-5e-thyruliusia/ladriande-nation/ladriande-nation/","dg-note-properties":{}}
 ---
 
-
+# Ladriande - Nation
 
 Ruler: Lord Velindiel
 
 Size: 14 hex X 14 hex, approximately 74,000 square miles.
+
 
 Capital: Ladriande City
 
@@ -17,3 +18,29 @@ The SW ocean is a very large bay, one can access the open sea, but some of the p
 
 Ladriande is largely self sufficient. The farmland is abundant, the timber is valuable, but access to the area involves harsh sea or desert crossings, so the area is largely ignored.
 The farming communities, spread far and wide, usually have hamlets that are not dropped into the map. Any given 8 mile hex can hold as many as 150 farming families. Any hex can easily have a very small collective center with its own individual identity as a community.
+
+## Ladriande City Capital
+
+The Capital City is [[Adventure 5e Thyruliusia/Ladriande - Nation/Ladriande - Capital\|Ladriande - Capital]] and the nation is called Ladriande as well and no one has ever bothered to change or argue the point.
+
+## Towns
+The nation has uncounted hamlets. The towns large enough to have their own appointed government and trade and tax stations. These include:
+* [[Adventure 5e Thyruliusia/Ladriande - Nation/Briarlaize - Town\|Briarlaize - Town]]
+* Something
+* Another thing
+* Something else
+
+## Military
+* Desert Pass Fortress
+* North Border Tower
+* South Border Tower
+* North Road Fortress
+
+## Features
+Land masses and important geographic features.
+* The Desert of Desolation
+* Manjan Waste
+* The Ruins of Treegrove Stronghold
+* Ayachoozcolla Jungle
+* Fellmar Forest
+* Ellsmar Forest
