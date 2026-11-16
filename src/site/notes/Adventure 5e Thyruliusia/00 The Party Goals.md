@@ -5,6 +5,9 @@
 # The Immediate Goal
 
 ## Goals of Amani Verna Coprinoderma
+Immediate: Find allies to exists with, to not be alone.
+Medium: Travel and make money. Learn. Learn who killed parents.
+Long Term: Revenge.
 
 ## Goals of Demetrios
 
