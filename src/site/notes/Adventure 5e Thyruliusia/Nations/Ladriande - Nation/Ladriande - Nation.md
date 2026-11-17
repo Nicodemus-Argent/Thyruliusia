@@ -49,3 +49,181 @@ Land masses and important geographic features.
 * Ayachoozcolla Jungle
 * Fellmar Forest
 * Ellsmar Forest
+
+
+
+
+## Overview
+
+**Official Name:**  
+**Common Name:**  
+**Demonym:**  
+**Government:**  
+**Head of State:**  
+**Capital:**  
+**Population:**  
+**Area / Size:**  
+**National Renown:**
+
+## Geography & Borders
+
+### Location
+
+### Borders
+
+### Major Geographic Features
+
+### Climate & Seasons
+
+### Regions & Territories
+
+## Settlements
+
+### Capital
+
+### Major Cities
+
+### Towns & Villages
+
+### Rural Communities
+
+### Notable Locations
+
+## Government & Politics
+
+### Structure of Government
+
+### Leadership & Succession
+
+### Laws & Legal System
+
+### Political Factions
+
+### Internal Conflicts
+
+### Foreign Relations
+
+## Military & Security
+
+### Military Structure
+
+### Standing Forces
+
+### Fortifications & Defenses
+
+### Mercenaries & Allied Forces
+
+### Threats & Security Concerns
+
+## Economy & Trade
+
+### Major Industries
+
+### Agriculture & Resources
+
+### Manufacturing & Craftsmanship
+
+### Trade Routes
+
+### Imports & Exports
+
+### Currency, Taxation & Wealth
+
+## People & Culture
+
+### Population & Demographics
+
+### Peoples & Ancestries
+
+### Languages
+
+### Customs & Traditions
+
+### Social Structure
+
+### Values & Reputation
+
+### Education & Scholarship
+
+## Religion & Magic
+
+### Major Religions
+
+### Temples & Religious Institutions
+
+### Magical Traditions
+
+### Arcane Institutions
+
+### Attitudes Toward Magic
+
+### Supernatural Influence
+
+## Organizations & Institutions
+
+### Guilds & Trade Organizations
+
+### Military Orders & Companies
+
+### Religious Organizations
+
+### Scholarly & Magical Organizations
+
+### Other Notable Groups
+
+## History
+
+### Founding
+
+### Major Historical Events
+
+### Wars & Conflicts
+
+### Changes in Government
+
+### Historical Figures
+
+## Reputation & Renown
+
+### National Reputation
+
+### Foreign Perceptions
+
+### Party Renown
+
+### Notable Events
+
+- **[YYYY-MM-DD] — [Event]:** [Description and consequences]
+    
+
+## Notable People
+
+- **[Name]** — [Title, position, or significance]
+    
+
+## Locations of Interest
+
+- **[Location Name]** — [Brief description]
+    
+
+## Current Situation
+
+### What Is Happening Now
+
+### Internal Pressures
+
+### External Pressures
+
+### Opportunities & Threats
+
+## DM Notes
+
+### Secrets & Hidden Truths
+
+### Undiscovered History
+
+### Hidden Agendas
+
+### Adventure Hooks
+
+### Future Developments
