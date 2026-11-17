@@ -4,7 +4,7 @@
 
 # Ladriande - Nation
 
-Ruler: Lord Velindiel
+Ruler: [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
 
 Size: 25 hex X 14 hex, approximately 95,000 square miles.
 
@@ -55,15 +55,15 @@ Land masses and important geographic features.
 
 ## Overview
 
-**Official Name:**  
-**Common Name:**  
-**Demonym:**  
-**Government:**  
-**Head of State:**  
-**Capital:**  
-**Population:**  
-**Area / Size:**  
-**National Renown:**
+**Official Name:**  The Nation of Ladriande
+**Common Name:**  Ladriande
+**Demonym:**  Ladriandian
+**Government:**  Sovereign
+**Head of State:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
+**Capital:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Cap1\|Ladriande - Cap1]]
+**Population:**  97,000
+**Area / Size:**  505 hex (24 mile)
+**National Renown:** Little Importance
 
 ## Geography & Borders
 
