@@ -4,6 +4,8 @@
 
 # Ladriande - Nation
 
+![Ladriande Coat of Arms.jpg](/img/user/Ladriande%20Coat%20of%20Arms.jpg)
+
 Ruler: [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
 
 Size: 25 hex X 14 hex, approximately 95,000 square miles.
