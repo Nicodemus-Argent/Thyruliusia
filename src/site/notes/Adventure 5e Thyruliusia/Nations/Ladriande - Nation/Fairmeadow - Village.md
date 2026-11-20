@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/adventure-5e-thyruliusia/nations/ladriande-nation/fairmeadow-village/","dg-note-properties":{}}
 ---
 
-
+Population ~ 1,000 with many more farms further out and down the road.
 
 Fairmeadow is a small, prosperous farming village where humans and Hin live side by side, with a small mix of elves, dwarves, and beast folk. Its strength is agriculture, with glass bricks and modest blown-glass work as a secondary livelihood.
 
-
-
+## Town leader
+Mother Talia Honeyblossom 
+Circle: 5 elders, Wool-traders Leader, Agrarian Chairman 
 
 # Fairmeadow
 
@@ -65,12 +66,17 @@ Fairmeadow is not a place defined by constant danger or political turmoil. Most 
 
 Agriculture forms the foundation of Fairmeadow's economy.
 
+
 The surrounding farming district produces sufficient food to support the village and its neighboring settlements, with surplus goods entering Ladriande's internal trade network.
 
 Farms vary in size, and individual agricultural hexes may contain smaller hamlets, farmsteads, and local gathering places.
 
 The nearby grasslands support livestock and grazing.
-
+Dominating livestock - Sheep for meat and wool.
+Locally - Cows, pigs, chickens and other standards for local citizens
+Fishing near by
+Notably, there is one highly respected horse breeding family. Great bloodline, healthy and strong for the farming community.
+* Haldorsen Family, known as the Haldorstouts. The horses are known as Meadowstouts.
 ### Glassmaking
 
 Fairmeadow is also recognized as one of Ladriande's important glass-producing communities.
@@ -84,6 +90,8 @@ A smaller local tradition of blown glass produces distinctive wares associated w
 The silica used in glass production is obtained from deposits associated with the nearby desert. The precise extraction sites have not yet been marked on the regional map.
 
 A separate industrial settlement northeast of Fairmeadow, situated in a grassy inlet extending into the desert, is planned to become the principal center of Ladriande's export glass industry.
+
+The glass made locally by the glass blowers adds a local wood ash to change the plane green glass to warm green yellow. The tiny bubbles and imperfections proof that they were made by hand and with intent for specific people.
 
 ### Fishing and Coastal Trade
 
@@ -113,7 +121,6 @@ The settlement is neither a major military outpost nor a bustling commercial cit
 
 ## Development Notes — Not Yet Established
 
-- Village population and leadership.
     
 - Names and locations of the silica deposits.
     
