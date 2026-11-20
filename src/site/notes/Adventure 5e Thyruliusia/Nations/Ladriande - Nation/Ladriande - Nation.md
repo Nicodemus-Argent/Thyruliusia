@@ -4,7 +4,7 @@
 
 # Ladriande - Nation
 
-![Ladriande Coat of Arms.jpg](/img/user/Ladriande%20Coat%20of%20Arms.jpg)
+![Ladriande Coat of Arms.jpg\|634](/img/user/Ladriande%20Coat%20of%20Arms.jpg)
 
 Ruler: [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
 
@@ -29,7 +29,7 @@ The Capital City is [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladria
 The nation has uncounted hamlets. The towns large enough to have their own appointed government and trade and tax stations. These include:
 * [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Briarlaize - Town\|Briarlaize - Town]]
 * [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Hearthstone - Village\|Hearthstone - Village]]
-* Another thing
+* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Fairmeadow - Village\|Fairmeadow - Village]]
 * Something else
 
 ## Locations
