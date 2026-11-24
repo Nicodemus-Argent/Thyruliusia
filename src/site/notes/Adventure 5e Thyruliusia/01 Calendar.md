@@ -29,7 +29,6 @@ five weeks of seven days.
 |14|**Pittance**|A sardonic reference to the tiny portions of time required by mortal servants.|
 
 
-### The Stars of the Week
 ## **The Twelve Great Stars**
 
 |Star|What people see|
@@ -48,3 +47,28 @@ five weeks of seven days.
 |**The Last Watch**|A brilliant star that dominates the sky during a particular part of the year.|
 
 These are deliberately common translated names rather than the original names the Dragon Empire used. Of these, 7 have named the days of the week.
+
+## Days of the Week
+
+* Aurelion
+* Vesper
+* Thorn
+* Lantern
+* Mourn
+* Kharad
+* Serpent
+
+
+# Current Month - Pittamce
+
+
+| Aur | Ves | Thorn | Lan | Mourn | Khar | Ser |
+| --- | --- | ----- | --- | ----- | ---- | --- |
+| 01  | 02  | 03    | 04  | 05    | 06   | 07  |
+| 08  | 09  | 10    | 11  | 12    | 13   | 14  |
+| 15  | 16  | 17    | 18  | 19    | 20   | 21  |
+| 22  | 23  | 24    | 25  | 26    | 27   | 28  |
+| 29  | 30  | 31    | 32  | 33    | 34   | 35  |
+### TODAY: Year 473 - 14 -29
+
+# Year 474
