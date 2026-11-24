@@ -23,13 +23,13 @@ The farming communities, spread far and wide, usually have hamlets that are not 
 
 ## Ladriande City Capital
 
-The Capital City is [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital\|Ladriande - Capital]] and the nation is called Ladriande as well and no one has ever bothered to change or argue the point.
+The Capital City is [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital/Ladriande - Capital\|Ladriande - Capital]] and the nation is called Ladriande as well and no one has ever bothered to change or argue the point.
 
 ## Towns
 The nation has uncounted hamlets. The towns large enough to have their own appointed government and trade and tax stations. These include:
-* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Briarlaize - Town\|Briarlaize - Town]]
-* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Hearthstone - Village\|Hearthstone - Village]]
-* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Fairmeadow - Village\|Fairmeadow - Village]]
+* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Briarlaize - Town/Briarlaize - Town\|Briarlaize - Town]]
+* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Hearthstone - Village/Hearthstone - Village\|Hearthstone - Village]]
+* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Fairmeadow - Village/Fairmeadow - Village\|Fairmeadow - Village]]
 * Something else
 
 ## Locations
@@ -62,7 +62,7 @@ Land masses and important geographic features.
 **Demonym:**  Ladriandian
 **Government:**  Sovereign
 **Head of State:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
-**Capital:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Cap1\|Ladriande - Cap1]]
+**Capital:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital/Ladriande - Cap1\|Ladriande - Cap1]]
 **Population:**  97,000
 **Area / Size:**  505 hex (24 mile)
 **National Renown:** Little Importance
