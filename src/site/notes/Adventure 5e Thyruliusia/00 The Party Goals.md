@@ -81,4 +81,9 @@ A meaningful milestone would be developing lasting, reciprocal familial bonds wi
 
 Potential challenges: Conflicting loyalties, maintaining relationships through difficult decisions, and learning to accept that other people genuinely care about him despite his own perceived self-worth.
 
-## Goals of Wisteria / Nyx
+## Goals of Nyx / Wisteria
+
+**Immediate:** Return to party, find allies, get some coin.
+Insure health of father.
+**Mid Term:** Discover who framed her. Clear name, get revenge or justice.
+**Long Term:** Heal father, reunite the larger family.
