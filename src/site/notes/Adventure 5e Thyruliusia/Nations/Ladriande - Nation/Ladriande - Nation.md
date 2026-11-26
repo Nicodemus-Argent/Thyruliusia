@@ -62,7 +62,7 @@ Land masses and important geographic features.
 **Demonym:**  Ladriandian
 **Government:**  Sovereign
 **Head of State:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
-**Capital:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital/Ladriande - Cap1\|Ladriande - Cap1]]
+**Capital:**  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital/Ladriande - Capital\|Ladriande - Capital]]
 **Population:**  97,000
 **Area / Size:**  505 hex (24 mile)
 **National Renown:** Little Importance

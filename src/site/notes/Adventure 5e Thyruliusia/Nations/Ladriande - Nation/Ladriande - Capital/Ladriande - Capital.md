@@ -2,26 +2,52 @@
 {"dg-publish":true,"permalink":"/adventure-5e-thyruliusia/nations/ladriande-nation/ladriande-capital/ladriande-capital/","dg-note-properties":{}}
 ---
 
-# Nation
 
-## Capital Ladriande
+# Capital of Ladriande
 
-### Description
-The city
+## Renown - Overall
+### Overall
+5/100
+### Infamy / Fame
+-1 (-100 , 100)
 
-### Demographics
-Large City, population apx 24,000
+
+## Overview
+A large, circular city spanning a river. Two full levels, circles, of city walls and sprawling outskirts. Surrounded by miles of farmland.
+
+## Geography & Location
+- Region: Equitorial
+- Terrain: Grasslands. Some desert, some forest, small quantity of jungle.
+- Nearby geographical features: Desert of Desolation. Manjan Wastes
+
+## Population & Demographics
+- Approximate population: 24,000
+- Primary peoples: Humans
+- Minority populations: Dwarves, Elves, Nezumi
+- Languages: Official - Common. Trade - Dwarven
+
 60% Human
 15% Elven
 5% Dwarven
 20% Beastfolk and others
 
+## Government & Authority
+- Governing authority: Sovereign Lord  [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Lord Velindiel\|Lord Velindiel]]
+- Local leadership: Merchant Guild
+- Political affiliations: Allies of Giledzar   [[Adventure 5e Thyruliusia/Nations/Deldruke Kingdom - Nation/Deldruke Kingdom - Nation\|Deldruke Kingdom - Nation]]
 
-### Government
-Ladriande is Ruled by Lord Velindiel (Male Human Noble)
+## Economy & Trade
+- Primary industries: Logging, Farming
+- Exports: Wood, Grain, Wool, Glass
+- Imports: Iron, Weapons / Armor, Magic Knowledge
+- Trade connections: Giledzar
 
-## Notable Places:
+## Military & Security
+- Defenses: Sovereign's Guard, City Guard, Militia
+- Local military presence: Large Garrison
+- Threats: Bandits, Shiva Empire, Temple of Hate (Vampires)
 
+# Notable Locations
 ### The Guildhall
 Located in Court Farthing is an impressive timber and brick building, decorated with finely carved gargoyles. It contains a large meeting hall and several smaller rooms, and is shared amongst several local merchant guilds.
 
@@ -78,3 +104,26 @@ Located in Court Farthing is an impressive timber and brick building, decorated 
 ## Tower Village
 
 ## Upper Market
+
+
+
+# Notable Personalities
+- 
+
+## Factions & Organizations
+- Merchant's Guild
+- Seven Axes, Dwarven Mercenary Company
+- Scholar's Tower, Informal Arcane Guild
+- Temple of High Gods
+
+# History
+- 
+
+## Relationships
+- Parent region:
+- Nation:
+- Neighboring settlements:
+
+
+## Renown Events
+* 473-14-29 Warehouse Break In

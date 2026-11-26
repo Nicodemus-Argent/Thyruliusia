@@ -112,7 +112,7 @@ Despite its valuable exports, Fairmeadow remains a relatively quiet settlement, 
 
 * [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Hearthstone - Village/Hearthstone - Village\|Hearthstone]] : A crucial ally in commerce for Fairmeadow.
 * Coastal Fishers: several small communities live on the coast and come to do business in this fine, small town. They are more reliant on Fairmeadow or, likewise, face isolation.
-* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital/Ladriande - Cap1\|Ladriande]]]] : This town enjoys a fine relationship with the capital. Trade and tax are managed well. Troops and Guards are on hand.
+* [[Adventure 5e Thyruliusia/Nations/Ladriande - Nation/Ladriande - Capital/Ladriande - Capital\|Ladriande]]]] : This town enjoys a fine relationship with the capital. Trade and tax are managed well. Troops and Guards are on hand.
 
 
 ## Character of the Village
